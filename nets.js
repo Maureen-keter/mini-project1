@@ -77,5 +77,5 @@ function calculateNetSalary(basicSalary, benefits) {
     };
   }
 //   call the function to return results
-  console.log(calculateNetSalary());
+  console.log(calculateNetSalary(39000,8000));
   
