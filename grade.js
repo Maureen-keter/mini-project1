@@ -1,7 +1,7 @@
 // Arrow function for calculating student grades.
 
 const studentGrader=()=>{
-    const studentMarks = 79;
+    const studentMarks = prompt("enter student marks");
     
 // Checks if studentMarks is a number and if the number ranges from 0 to 100.
 // It returns "provide valid input" if the "if" condition is not true.
